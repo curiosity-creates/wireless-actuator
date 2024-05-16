@@ -21,8 +21,8 @@ AccelStepper motor(motorInterfaceType, STEP, DIR);
 
 
 // Replace with your network credentials
-const char* ssid = "InGuhagar";
-const char* password = "mUm%sIk92008";
+const char* ssid = "****";
+const char* password = "****";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
